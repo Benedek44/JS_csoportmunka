@@ -1,4 +1,4 @@
-//Készítette: Farkas Benedek, Rózas Richárd, Tóthmihály Martin
+//Készítette: Farkas Benedek, Rózsa Richárd, Tóthmihály Martin
 let joke;
 let jokeButton = document.getElementById('jokeBtn');
 let newJokeButton = document.getElementById('newJokeBtn');
